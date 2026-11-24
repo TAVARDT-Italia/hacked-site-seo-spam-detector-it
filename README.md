@@ -5,7 +5,7 @@
 
 Verifica tecnica per individuare attacchi cloaking mirati ai motori di ricerca, iniezioni occulte di link e reindirizzamenti fraudolenti.
 
-Sviluppato e gestito dall'unita di analisi forense e risposta agli incidenti di **TAVARDT Italia**.
+Sviluppato e gestito dall'unita di analisi forense e risposta agli incidenti di **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python seo_spam_detector.py esempio.it -json
 Per verificare l'integrita delle pagine e individuare eventuali compromissioni:
 
 * **Rilevatore di Spam SEO e Siti Hackerati Ufficiale**
-* **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Risposta agli Incidenti e Bonifica Digitale
 
-Per interventi di bonifica forense e hardening dei sistemi in linea con Linee Guida ACN e Sicurezza Informatica, contattare gli esperti di **TAVARDT Italia**.
+Per interventi di bonifica forense e hardening dei sistemi in linea con Linee Guida ACN e Sicurezza Informatica, contattare gli esperti di **TAVARDT**.
 
 ***
 
