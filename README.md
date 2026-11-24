@@ -1,4 +1,4 @@
-# Rilevatore di Siti Hackerati e Spam SEO | TAVARDT Italia
+# Rilevatore di Siti Hackerati e Spam SEO
 
 [![Rilevatore Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/it/rilevatore-spam-seo-sito-hackerato/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Per verificare l'integrita delle pagine e individuare eventuali compromissioni:
 ## Risposta agli Incidenti e Bonifica Digitale
 
 Per interventi di bonifica forense e hardening dei sistemi in linea con Linee Guida ACN e Sicurezza Informatica, contattare gli esperti di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
