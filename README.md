@@ -51,4 +51,12 @@ Per interventi di bonifica forense e hardening dei sistemi in linea con Linee Gu
 
 ***
 
+## Link Utili
+
+* **Portale Aziendale:** https://ag.tavardt.com/it/
+* **Suite di Diagnostica:** https://tools.tavardt.com/it/
+* **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
 © 2026 TAVARDT. Tutti i diritti riservati.
