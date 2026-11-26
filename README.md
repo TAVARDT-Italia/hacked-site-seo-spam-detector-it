@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/it/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Rilevatore di Siti Hackerati e Spam SEO
 
 [![Rilevatore Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/it/rilevatore-spam-seo-sito-hackerato/)
